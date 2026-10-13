@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "ecommerce-ops-weekly-report",
+  "source_version": "0443f7045c578c7d89ef527f3d7ec2907a6a4e24fddf3c4d6d45625ecee0c4f8",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "da019a39a326f0c7d0600be6ca637bc66ef5808e3e1e09320f75d6eb5da544fd",
+    "SKILL.md": "1332033f9cccea783022c9940fda933dbb0a0a962acbedce1808d63b7d156b30"
+  }
+}
